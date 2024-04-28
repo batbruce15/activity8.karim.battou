@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: activity8
+  datasource:
+    url: jdbc:postgresql://localhost:5432/sb001
+    username: postgres
+    password: admin
